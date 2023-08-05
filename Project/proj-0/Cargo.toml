@@ -1,0 +1,8 @@
+[package]
+name = "proj-0"
+version = "0.1.0"
+edition = "2021"
+authors = ["Bae Mun Sung <hamasoon@snu.ac.kr>"]
+
+[dependencies]
+nannou = "0.18.1"
